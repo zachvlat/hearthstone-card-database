@@ -1,6 +1,7 @@
 # Hearthstone Card Database
 
 Welcome to the Hearthstone Card Database project! This project allows you to search for Hearthstone cards and view their details, including card images and descriptions.
+Check out the live demo of Hearthstone Card Database [here](https://hearthstonedatabase.netlify.app/).
 
 ## Table of Contents
 
